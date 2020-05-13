@@ -36,5 +36,9 @@ public class Clue extends Application {
         launch(args);
         system.out.print("Teste 1 dois roger man");
     }
+     
+    
+    
+    system.out.print("Teste 2 dois jose girl");
     
 }
